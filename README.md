@@ -18,7 +18,9 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |4|Tipos de datos en DART|5|Finalizada|
 |5|Tipo de dato dinamico|5|Finalizada|
 |6|Mapa|6|Finalizada|
-|7|Listas, iterables y conjunto de Datos|9|Activa|
+|7|Listas, iterables y conjunto de Datos|9|Finalizada|
+|8|Funciones y parametros|11|Activa|
+
 
 
 
