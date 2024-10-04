@@ -19,7 +19,10 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |5|Tipo de dato dinamico|5|Finalizada|
 |6|Mapa|6|Finalizada|
 |7|Listas, iterables y conjunto de Datos|9|Finalizada|
-|8|Funciones y parametros|11|Activa|
+|8|Funciones y parametros|11|Finalizada|
+|9|Clases y Sobreescritura de métodos|9|Activa|
+|10|Constructores Nombrados|8|Activa|
+|11|Getters (Lectura Controlada) y Setters (Modificacion controlada)|9|Activa|
 
 
 
